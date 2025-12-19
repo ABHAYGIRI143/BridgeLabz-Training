@@ -12,7 +12,7 @@ public class SumOfTwo {
         int sum = f + s;
     
         System.out.println("sum" + sum);
-        
+        scanner.close();
         
     }
 }
