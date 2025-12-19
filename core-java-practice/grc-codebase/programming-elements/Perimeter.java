@@ -6,8 +6,10 @@ public class Perimeter{
         int m = sc.nextInt();
         int n = sc.nextInt();
 
-        int Peri = 2*(m+n);
+        int perimeter= 2*(m+n);
 
-        System.out.println(Peri);
+        System.out.println(perimeter);
+        
+        sc.close();
     }
 }

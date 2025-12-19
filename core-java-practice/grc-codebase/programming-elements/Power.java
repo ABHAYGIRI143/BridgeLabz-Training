@@ -9,5 +9,6 @@ public class Power {
         int pwr = (int) Math.pow(m, e);
 
         System.out.println(pwr);
+        sc.close();
     }
 }
