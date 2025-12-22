@@ -78,6 +78,10 @@ BridgeLabz-Training/
 
 - Completed Level 1, Level 2, and Level 3 Control Flow problems
 
+ ### 20-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+- Completed Level 1, Level 2, and Level 3 Arraytg problems
+
 ---
 
 ## Author
