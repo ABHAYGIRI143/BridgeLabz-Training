@@ -1,4 +1,4 @@
-package com.scenariobased;
+
 import java.util.Scanner;
 
 public class MetroFareDeduction {
