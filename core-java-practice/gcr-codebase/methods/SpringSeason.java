@@ -1,4 +1,3 @@
-package com.methods;
 public class SpringSeason {
 
     // function to check if the given date falls in Spring Season

@@ -1,4 +1,4 @@
-package com.methods;
+
 import java.util.Scanner;
 
 public class NumberOfChocolates {
