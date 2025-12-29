@@ -81,17 +81,27 @@ BridgeLabz-Training/
  
  ## Week 2: Getting Started with array and strings
  
- ### 21-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+ ### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 - Completed Level 1, Level 2, and Level 3 Arrays problems
 
-  ### 22-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+  ### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 - Completed Level 1, Level 2, and Level 3 Strings problems
 
- ### 24-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+ ### 24-Dec-2025 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 - Completed Level 1, Level 2, and Level 3 Method problems
+
+ ### 26-Dec-2025 (Friday) [Click here for reference]https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+- Completed Level 1, Level 2, and Level 3 Control Flow
+
+ ### 29-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+
+- Completed Extras questions of date and string
+
+
 
 
 ---
