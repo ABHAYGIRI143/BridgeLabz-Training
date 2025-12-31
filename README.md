@@ -97,9 +97,19 @@ BridgeLabz-Training/
 
 - Completed Level 1, Level 2, and Level 3 Control Flow
 
- ### 29-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+ ### 27-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 - Completed Extras questions of date and string
+
+ ## Week 3: Getting Started with OOPs Concepts
+
+### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+- Completed Scenario Based Questions
+
+### 30-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object)
+
+- Completed OOPs Questions
 
 
 
