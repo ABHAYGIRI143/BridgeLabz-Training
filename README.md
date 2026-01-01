@@ -85,7 +85,7 @@ BridgeLabz-Training/
 
 - Completed Level 1, Level 2, and Level 3 Arrays problems
 
-  ### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 - Completed Level 1, Level 2, and Level 3 Strings problems
 
@@ -110,6 +110,14 @@ BridgeLabz-Training/
 ### 30-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object)
 
 - Completed OOPs Questions
+
+### 31-Dec-2025 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-variables)
+
+- Completed Java Constructors, Instance vs. Class Variables, Access Modifiers
+
+### 1-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/java-keywords)
+
+- Completed  this, static, final key words and instanceof operator
 
 
 
