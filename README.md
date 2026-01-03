@@ -119,6 +119,14 @@ BridgeLabz-Training/
 
 - Completed  this, static, final key words and instanceof operator
 
+### 2-Jan-2026 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+- Completed  Scenario Based and constructor Questions
+
+### 2-Jan-2026 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/Inheritence)
+
+- Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
+
 
 
 
