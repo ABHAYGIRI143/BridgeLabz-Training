@@ -123,7 +123,13 @@ BridgeLabz-Training/
 
 - Completed  Scenario Based and constructor Questions
 
-### 2-Jan-2026 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/Inheritence)
+### 3-Jan-2026 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/Inheritence)
+
+- Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
+
+### Week 3: Getting Started with OOPS Concepts
+
+### 5-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/oops-pillars)
 
 - Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
 
