@@ -127,7 +127,7 @@ BridgeLabz-Training/
 
 - Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
 
-### Week 3: Getting Started with OOPS Concepts
+### Week 4: Getting Started with OOPS Concepts
 
 ### 5-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/oops-pillars)
 
