@@ -133,6 +133,13 @@ BridgeLabz-Training/
 
 - Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
 
+### 6-Jan-2026 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+- Completed  Scenario Based Problems
+
+### 6-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+- Completed  Scenario Based Problems
 
 
 
