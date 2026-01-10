@@ -137,7 +137,15 @@ BridgeLabz-Training/
 
 - Completed  Scenario Based Problems
 
-### 6-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+### 7-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+- Completed  Scenario Based Problems
+
+### 8-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linked-List)
+
+- Completed Linked List Problems
+
+### 9-Jan-2026 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 - Completed  Scenario Based Problems
 
