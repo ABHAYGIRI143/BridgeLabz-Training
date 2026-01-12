@@ -1,164 +1,128 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 // ================= Custom Exception =================
 class NoDriverAvailableException extends Exception {
-    public NoDriverAvailableException(String message) {
-        super(message);
+    public NoDriverAvailableException(String msg) {
+        super(msg);
     }
 }
 
-// ================= Interface =================
+// ================= Fare Calculator Interface =================
 interface FareCalculator {
     double calculateFare(double distance);
 }
 
-// ================= User Class =================
-class User {
-    private int userId;
-    private String name;
-
-    public User(int userId, String name) {
-        this.userId = userId;
-        this.name = name;
-    }
-
-    public String getName() {
-        return name;
-    }
-}
-
-// ================= Driver Class =================
-class Driver {
-    private int driverId;
-    private String name;
-    private boolean available;
-
-    public Driver(int driverId, String name) {
-        this.driverId = driverId;
-        this.name = name;
-        this.available = true;
-    }
-
-    public boolean isAvailable() {
-        return available;
-    }
-
-    public void assignDriver() {
-        this.available = false;
-    }
-
-    public void releaseDriver() {
-        this.available = true;
-    }
-
-    public String getName() {
-        return name;
-    }
-}
-
-// ================= Fare Implementations =================
+// Normal pricing
 class NormalFare implements FareCalculator {
     public double calculateFare(double distance) {
-        return distance * 10;
+        return distance * 10;   // ₹10 per km
     }
 }
 
+// Peak hour pricing
 class PeakFare implements FareCalculator {
     public double calculateFare(double distance) {
-        return distance * 15;
+        return distance * 15;   // ₹15 per km
     }
 }
 
-// ================= Ride Class =================
-class Ride {
-    private User user;
-    private Driver driver;
-    private double distance;
-    private double fare;
+// ================= User =================
+class User {
+    int id;
+    String name;
 
-    public Ride(User user, Driver driver, double distance, FareCalculator fareCalculator) {
+    User(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
+
+// ================= Driver =================
+class Driver {
+    int id;
+    String name;
+    boolean available = true;
+
+    Driver(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
+
+// ================= Ride =================
+class Ride {
+    User user;
+    Driver driver;
+    double distance;
+    double fare;
+
+    Ride(User user, Driver driver, double distance, FareCalculator fareCalculator) {
         this.user = user;
         this.driver = driver;
         this.distance = distance;
         this.fare = fareCalculator.calculateFare(distance);
     }
 
-    public double getFare() {
-        return fare;
-    }
-
-    public String getRideDetails() {
-        return "User: " + user.getName() +
-               ", Driver: " + driver.getName() +
-               ", Distance: " + distance +
-               " km, Fare: ₹" + fare;
+    void showRide() {
+        System.out.println("User: " + user.name);
+        System.out.println("Driver: " + driver.name);
+        System.out.println("Distance: " + distance + " km");
+        System.out.println("Fare: ₹" + fare);
     }
 }
 
-// ================= Ride Management System =================
-public class CabBookingSystem {
+// ================= Cab Service =================
+class CabService {
 
-    private static List<Driver> drivers = new ArrayList<>();
-    private static List<Ride> rideHistory = new ArrayList<>();
+    List<Driver> drivers = new ArrayList<>();
+    List<Ride> rideHistory = new ArrayList<>();
 
-    // Assign available driver
-    private static Driver assignDriver() throws NoDriverAvailableException {
-        for (Driver d : drivers) {
-            if (d.isAvailable()) {
-                d.assignDriver();
-                return d;
-            }
-        }
-        throw new NoDriverAvailableException("No drivers available right now.");
+    void addDriver(Driver d) {
+        drivers.add(d);
     }
 
-    // Book Ride
-    public static void bookRide(User user, double distance, boolean isPeak)
+    Ride bookRide(User user, double distance, FareCalculator fareCalculator)
             throws NoDriverAvailableException {
 
-        Driver driver = assignDriver();
-
-        FareCalculator fareCalculator;
-        if (isPeak) {
-            fareCalculator = new PeakFare();   // Polymorphism
-        } else {
-            fareCalculator = new NormalFare(); // Polymorphism
+        for (Driver d : drivers) {
+            if (d.available) {
+                d.available = false;
+                Ride ride = new Ride(user, d, distance, fareCalculator);
+                rideHistory.add(ride);
+                System.out.println("Ride booked successfully!");
+                return ride;
+            }
         }
-
-        Ride ride = new Ride(user, driver, distance, fareCalculator);
-        rideHistory.add(ride);
-
-        System.out.println("Ride Booked Successfully!");
-        System.out.println(ride.getRideDetails());
+        throw new NoDriverAvailableException("No drivers available right now!");
     }
 
-    // View Ride History
-    public static void viewRideHistory() {
-        System.out.println("\n--- Ride History ---");
+    void showRideHistory() {
         for (Ride r : rideHistory) {
-            System.out.println(r.getRideDetails());
+            System.out.println("------------------");
+            r.showRide();
         }
     }
+}
 
-    // ================= Main =================
+// ================= Main =================
+public class CabBookingSystem {
     public static void main(String[] args) {
 
-        // Adding drivers (CREATE)
-        drivers.add(new Driver(1, "Amit"));
-        drivers.add(new Driver(2, "Rahul"));
+        CabService cabService = new CabService();
+
+        cabService.addDriver(new Driver(1, "Rohit"));
+        cabService.addDriver(new Driver(2, "Amit"));
 
         User user1 = new User(101, "Abhay");
-        User user2 = new User(102, "Rohit");
 
         try {
-            bookRide(user1, 12, false); // Normal pricing
-            bookRide(user2, 8, true);   // Peak pricing
+            Ride r1 = cabService.bookRide(user1, 12, new PeakFare());
+            r1.showRide();
         } catch (NoDriverAvailableException e) {
-            System.out.println("Error: " + e.getMessage());
+            System.out.println(e.getMessage());
         }
 
-        // READ
-        viewRideHistory();
+        System.out.println("\nRide History:");
+        cabService.showRideHistory();
     }
 }
