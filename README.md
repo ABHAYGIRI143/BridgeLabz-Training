@@ -149,6 +149,12 @@ BridgeLabz-Training/
 
 - Completed  Scenario Based Problems
 
+### Week 5: Getting Started with DSA
+
+### 12-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+- Completed  Scenario Based Problems
+
 
 
 ---
