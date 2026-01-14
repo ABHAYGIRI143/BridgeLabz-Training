@@ -155,6 +155,10 @@ BridgeLabz-Training/
 
 - Completed  Scenario Based Problems
 
+### 13-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-queue-hashmap)
+
+- Completed Stack Queue Hashmap Questions
+
 
 
 ---
