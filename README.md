@@ -155,10 +155,17 @@ BridgeLabz-Training/
 
 - Completed  Scenario Based Problems
 
-### 13-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-queue-hashmap)
+### 13-Jan-2026 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-queue-hashmap)
 
 - Completed Stack Queue Hashmap Questions
 
+### 14-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting-algorithms)
+
+-  Sorting Algorithms
+
+### 15-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting-algorithms)
+
+-  Completed Sorting Algorithms
 
 
 ---
