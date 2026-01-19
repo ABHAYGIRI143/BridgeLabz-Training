@@ -1,210 +1,229 @@
-# Daily Progress Log – BridgeLabz
+# Daily Progress Log – BridgeLabz Training
 
 ## Overview
 
-This repository documents the **daily progress of tasks completed during the BridgeLabz Training Program**  
-**Training ID:**
-
-The progress is recorded week-wise and day-wise, focusing on **Java fundamentals, problem-solving, and programming concepts**.  
-Each section highlights the learning objectives and tasks completed on specific dates.
+This repository documents the **daily progress and learning outcomes** achieved during the **BridgeLabz Training Program (Capgemini)**.
+The progress is maintained **week-wise and day-wise**, with a strong focus on **Core Java, OOPs, Data Structures & Algorithms, and problem-solving skills**.
 
 ---
 
 ## Repository Details
 
-- **Repository Name:** BridgeLabz-Training
-- **Primary Language:** Java
-- **IDE Used:** Eclipse / IntelliJ IDEA
-- **Version Control:** Git & GitHub
+* **Repository Name:** BridgeLabz-Training
+* **Primary Language:** Java
+* **IDE Used:** Eclipse / IntelliJ IDEA
+* **Version Control:** Git & GitHub
 
 ---
 
 ## Branch Information
 
-| Branch Name          | Purpose                                                                       |
-| -------------------- | ----------------------------------------------------------------------------- |
-| `main`               | Contains the main README and consolidated documentation                       |
-| `core-java-practice` | Contains Java practice programs, control flow problems, and daily assignments |
+| Branch Name          | Description                                             |
+| -------------------- | ------------------------------------------------------- |
+| `main`               | Contains the main README and consolidated documentation |
+| `core-java-practice` | Java basics, control flow, arrays, strings, and methods |
+| `oops-practice`      | Object-Oriented Programming concepts and scenarios      |
+| `dsa-practice`       | Data Structures and Algorithms implementations          |
 
 ---
 
 ## Folder Structure
 
-```
-```
+```text
 BridgeLabz-Training/
 |
-+-- core-java-practice/(Branch & Folder Name)
++-- core-java-practice/
 |   |
 |   +-- gcr-codebase/
-|   |   |
 |   |   +-- programming-elements/
-|   |   |
 |   |   +-- control-flow/
-|   |   |
 |   |   +-- arrays/
-|   |   |
-|   |   +-- string/
-|   |   |
+|   |   +-- strings/
 |   |   +-- methods/
 |   |
 |   +-- leet-code-codebase/
-|   |
 |   +-- scenario-based/
 |
-+-- oops-practice/(Branch & Folder Name)
++-- oops-practice/
 |   |
 |   +-- gcr-codebase/
-|   |   |
 |   |   +-- class-and-object/
-|   |   |
-|   |   +-- constructors-and-varaibles/
-|   |   |
+|   |   +-- constructors-and-variables/
 |   |   +-- inheritance/
-|   |   |
-|   |   +-- javakeywords/
-|   |   |
+|   |   +-- java-keywords/
 |   |   +-- oops-pillars/
-|   |   |
 |   |   +-- uml-diagram/
-|   |   |
-|   |   +-- 
-|   +-- leet-code-codebase/
 |   |
+|   +-- leet-code-codebase/
 |   +-- scenario-based/
 |
-+-- dsa-practice/(Branch & Folder Name)
-|   |
-|   +-- dsa-practice/
-|   |   |
-|   |   +-- linked-list/
-|   |   +-- sorting-algorithms
-|   |   +-- stack-queue-hashmap/
-|
++-- dsa-practice/
+    |
+    +-- linked-list/
+    +-- sorting-algorithms/
+    +-- stack-queue-hashmap/
+    +-- searching-algorithms/
 ```
 
 ---
 
 ## Weekly Progress Log
 
-## Week 1: Getting Started with Java and Its Basics
+### Week 1: Getting Started with Java Basics
 
-### 16-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
+#### 16-Dec-2025 (Tuesday)
 
-- Installed and configured Eclipse IDE
-- Set up GitHub repository
-- Solved basic Java practice problems
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 
-### 17-Dec-2025 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+* Installed and configured Eclipse IDE
+* Initialized GitHub repository
+* Solved basic Java programs
 
-- Solved elementary problems from LeetCode
-- Practiced Java input/output and conditionals
+#### 17-Dec-2025 (Wednesday)
 
-### 18-Dec-2025 (Thursday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
-- Completed Level 1 and Level 2 Programming Elements problems
+* Solved elementary LeetCode problems
+* Practiced Java input/output and conditionals
 
-### 19-Dec-2025 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+#### 18-Dec-2025 (Thursday)
 
-- Studied Java history and features
-- Solved elementary Java problems
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
-### 20-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+* Completed Level 1 & Level 2 Programming Elements problems
 
-- Completed Level 1, Level 2, and Level 3 Control Flow problems
+#### 19-Dec-2025 (Friday)
 
- 
- ## Week 2: Getting Started with array and strings
- 
- ### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+* Studied Java history and features
+* Solved introductory Java problems
 
-- Completed Level 1, Level 2, and Level 3 Arrays problems
+#### 20-Dec-2025 (Saturday)
 
-### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
-- Completed Level 1, Level 2, and Level 3 Strings problems
+* Completed Level 1, 2, and 3 Control Flow problems
 
- ### 24-Dec-2025 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+---
 
-- Completed Level 1, Level 2, and Level 3 Method problems
+### Week 2: Arrays, Strings, and Methods
 
- ### 26-Dec-2025 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+#### 22-Dec-2025 (Monday)
 
-- Completed Level 1, Level 2, and Level 3 Control Flow
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
- ### 27-Dec-2025 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+* Completed Level 1, 2, and 3 Arrays problems
 
-- Completed Extras questions of date and string
+#### 23-Dec-2025 (Tuesday)
 
- ## Week 3: Getting Started with OOPs Concepts
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
-### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+* Completed Level 1, 2, and 3 String problems
 
-- Completed Scenario Based Questions
+#### 24-Dec-2025 (Wednesday)
 
-### 30-Dec-2025 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object)
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
-- Completed OOPs Questions
+* Completed Level 1, 2, and 3 Method problems
 
-### 31-Dec-2025 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-variables)
+#### 26-Dec-2025 (Friday)
 
-- Completed Java Constructors, Instance vs. Class Variables, Access Modifiers
+* Revised Control Flow problems
 
-### 1-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/java-keywords)
+#### 27-Dec-2025 (Saturday)
 
-- Completed  this, static, final key words and instanceof operator
+* Completed extra problems related to Date and String handling
 
-### 2-Jan-2026 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+---
 
-- Completed  Scenario Based and constructor Questions
+### Week 3: Object-Oriented Programming (OOPs)
 
-### 3-Jan-2026 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/Inheritence)
+#### 29-Dec-2025 (Monday)
 
-- Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
+* Completed scenario-based problems
 
-## Week 4: Getting Started with OOPS Concepts
+#### 30-Dec-2025 (Tuesday)
 
-### 5-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/oops-pillars)
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object)
 
-- Completed  Inheritence , Polymorphism ,  multilevel inheritence Questions
+* Practiced classes and objects
 
-### 6-Jan-2026 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+#### 31-Dec-2025 (Wednesday)
 
-- Completed  Scenario Based Problems
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-variables)
 
-### 7-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+* Learned constructors, instance vs static variables, and access modifiers
 
-- Completed  Scenario Based Problems
+#### 01-Jan-2026 (Thursday)
 
-### 8-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linked-List)
+* Covered `this`, `static`, `final` keywords and `instanceof` operator
 
-- Completed Linked List Problems
+#### 02-Jan-2026 (Friday)
 
-### 9-Jan-2026 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+* Completed constructor-based and scenario-based questions
 
-- Completed  Scenario Based Problems
+#### 03-Jan-2026 (Saturday)
 
-## Week 5: Getting Started with DSA
+* Implemented inheritance, polymorphism, and multilevel inheritance
 
-### 12-Jan-2026 (Monday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+---
 
-- Completed  Scenario Based Problems
+### Week 4: Advanced OOPs & Introduction to DSA
 
-### 13-Jan-2026 (Tuesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-queue-hashmap)
+#### 05-Jan-2026 (Monday)
 
-- Completed Stack Queue Hashmap Questions
+* Revised OOP pillars with hands-on examples
 
-### 14-Jan-2026 (Wednesday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting-algorithms)
+#### 06–07 Jan 2026 (Tuesday–Wednesday)
 
--  Sorting Algorithms
+* Solved multiple scenario-based OOP problems
 
-### 15-Jan-2026 (Thrusday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting-algorithms)
+#### 08-Jan-2026 (Thursday)
 
--  Completed Sorting Algorithms
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linked-list)
+
+* Completed Linked List problems
+
+#### 09-Jan-2026 (Friday)
+
+* Continued scenario-based problem-solving
+
+---
+
+### Week 5: Data Structures & Algorithms
+
+#### 12-Jan-2026 (Monday)
+
+* Scenario-based problem revision
+
+#### 13-Jan-2026 (Tuesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stack-queue-hashmap)
+
+* Implemented Stack, Queue, and HashMap problems
+
+#### 14–15 Jan 2026 (Wednesday–Thursday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/sorting-algorithms)
+
+* Implemented and analyzed Sorting Algorithms
+
+#### 16-Jan-2026 (Friday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stringbuffer-stringbuilder)
+
+* Learned Searching Algorithms
+* Studied StringBuilder and StringBuffer classes
+
+#### 17-Jan-2026 (Saturday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/perfomance-camparison)
+
+* Performance comparison between Linear and Binary Search
+* Operations on StringBuilder and StringBuffer
 
 ---
 
 ## Author
 
-**Abhay Giri**  
+**Abhay Giri**
 BridgeLabz (Capgemini) Trainee
