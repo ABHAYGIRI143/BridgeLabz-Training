@@ -202,15 +202,6 @@ BridgeLabz-Training/
 
 -  Completed Sorting Algorithms
 
-### 16-Jan-2026 (Friday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/stringbuffer-stringbuilder)
-
--  Searching Algorithms and String builder , string buffer class
-
-### 17-Jan-2026 (Saturday) [Click here for reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/perfomance-camparison)
-
--  Completed Performance campariosn btw linear and binary search , operation in stringbuffer, string builder classes 
-
-
 ---
 
 ## Author
