@@ -221,6 +221,18 @@ BridgeLabz-Training/
 * Performance comparison between Linear and Binary Search
 * Operations on StringBuilder and StringBuffer
 
+#### 18-Jan-2026 (Monday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/adressbook)
+
+* Working on  addresss book problem
+
+#### 19-Jan-2026 (Tuesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/review/review)
+
+* Completed review
+
 ---
 
 ## Author
