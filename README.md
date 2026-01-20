@@ -221,6 +221,10 @@ BridgeLabz-Training/
 * Performance comparison between Linear and Binary Search
 * Operations on StringBuilder and StringBuffer
 
+---
+
+### Week 2: Collections Generics
+
 #### 18-Jan-2026 (Monday)
 
 🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/adressbook)
