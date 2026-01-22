@@ -225,17 +225,25 @@ BridgeLabz-Training/
 
 ### Week 2: Collections Generics
 
-#### 18-Jan-2026 (Monday)
+#### 19-Jan-2026 (Monday)
 
 🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/adressbook)
 
 * Working on  addresss book problem
 
-#### 19-Jan-2026 (Tuesday)
+#### 20-Jan-2026 (Tuesday)
 
 🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/review/review)
 
 * Completed review
+
+#### 21-Jan-2026 (Wednesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)
+
+* Learned About Generics
+* Solved Generics Probelms
+
 
 ---
 
