@@ -244,6 +244,20 @@ BridgeLabz-Training/
 * Learned About Generics
 * Solved Generics Probelms
 
+#### 22-Jan-2026 (Thrusday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptional-handling?authuser=0)
+
+* Learned About Exceptional Handling
+* Solved Exceptional handling Probelms
+
+#### 23-Jan-2026 (Friday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams?authuser=0)
+
+* Learned About Streams
+* Solved Streams Probelms
+
 
 ---
 
