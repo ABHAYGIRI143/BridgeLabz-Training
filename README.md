@@ -223,7 +223,7 @@ BridgeLabz-Training/
 
 ---
 
-### Week 2: Collections Generics
+### Week 6: Collections Generics
 
 #### 19-Jan-2026 (Monday)
 
@@ -258,6 +258,42 @@ BridgeLabz-Training/
 * Learned About Streams
 * Solved Streams Probelms
 
+---
+
+### Week 7: Advance Java Topics
+
+#### 27-Jan-2026 (Tuesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptional-handling)
+
+* Learned About Exception Handling
+* Solved Exception Handling Probelms
+
+#### 28-Jan-2026 (Wednesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+* Solved Scenario Based Question
+
+#### 29-Jan-2026 (Thrusday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+* Solved Scenario Based Question
+
+  #### 30-Jan-2026 (Friday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/j-unit)
+
+* Learned About J unit
+* Solved J unit problems
+
+#### 31-Jan-2026 (Saturday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)
+
+* Learned About Regex 
+* Solved regex Probelms
 
 ---
 
