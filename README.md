@@ -127,9 +127,13 @@ BridgeLabz-Training/
 
 #### 26-Dec-2025 (Friday)
 
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
 * Revised Control Flow problems
 
 #### 27-Dec-2025 (Saturday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 * Completed extra problems related to Date and String handling
 
@@ -138,6 +142,8 @@ BridgeLabz-Training/
 ### Week 3: Object-Oriented Programming (OOPs)
 
 #### 29-Dec-2025 (Monday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 * Completed scenario-based problems
 
@@ -159,9 +165,13 @@ BridgeLabz-Training/
 
 #### 02-Jan-2026 (Friday)
 
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 * Completed constructor-based and scenario-based questions
 
 #### 03-Jan-2026 (Saturday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/Inheritence)
 
 * Implemented inheritance, polymorphism, and multilevel inheritance
 
@@ -171,9 +181,13 @@ BridgeLabz-Training/
 
 #### 05-Jan-2026 (Monday)
 
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/oops-pillars)
+
 * Revised OOP pillars with hands-on examples
 
 #### 06–07 Jan 2026 (Tuesday–Wednesday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 * Solved multiple scenario-based OOP problems
 
@@ -185,6 +199,8 @@ BridgeLabz-Training/
 
 #### 09-Jan-2026 (Friday)
 
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linked-list)
+
 * Continued scenario-based problem-solving
 
 ---
@@ -192,6 +208,8 @@ BridgeLabz-Training/
 ### Week 5: Data Structures & Algorithms
 
 #### 12-Jan-2026 (Monday)
+
+🔗 [Reference](https://github.com/ABHAYGIRI143/BridgeLabz-Training/tree/dsa-practice/dsa-practice/linked-list)
 
 * Scenario-based problem revision
 
