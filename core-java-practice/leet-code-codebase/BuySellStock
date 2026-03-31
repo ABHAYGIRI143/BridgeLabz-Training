@@ -1,0 +1,25 @@
+public class BuySellStock
+{
+	public static void main(String[] args) {
+		int arr[] = {7,2,5,5,2,7,6};
+		
+		int result=Integer.MIN_VALUE;
+		
+		int leastPrice=arr[arr.length-1];
+		
+		for(int i=arr.length-2;i>=0;i--){
+		    
+		    if(leastPrice<arr[i]){
+		        result=Math.max(result,arr[i]-leastPrice);
+		    }
+		    
+		    if(leastPrice>arr[i]){
+		        leastPrice=arr[i];
+		    }
+		    
+		}
+		
+		System.out.println(result);
+		
+	}
+}

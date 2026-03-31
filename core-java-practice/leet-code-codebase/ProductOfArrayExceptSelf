@@ -1,0 +1,57 @@
+
+
+public class ProductOfArrayExceptSelf
+{
+	public static void main(String[] args) {
+		int arr[] = {1,2,3,4};
+		
+		int result[] = new int[arr.length];
+		
+		boolean zeroPresent=false;
+		
+		for(int i=0;i<arr.length;i++){
+		    if(arr[i]==0){
+		        zeroPresent=true;
+		        break;
+		    }
+		}
+		
+		if(zeroPresent){
+	        for(int i=0;i<arr.length;i++){
+		    
+		    if(arr[i]!=0){
+		        result[i]=0;
+		    }
+		    
+		    else{
+		        int pro=1;
+		        for(int j=0;j<arr.length;j++){
+		            if(i!=j ){
+		                pro*=arr[j];
+		            }
+		        }
+		        
+		        result[i]=pro;
+		    }
+		}
+		   
+		}
+		
+		else{
+		     int pro=1;
+		        for(int j=0;j<arr.length;j++){
+		            
+		                pro*=arr[j];
+		        }
+		        
+		        for(int i=0;i<arr.length;i++){
+		            result[i]=pro/arr[i];
+		        }
+		}
+		
+		for(int i:result){
+		    System.out.println(i);
+		}
+		
+	}
+}
