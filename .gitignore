@@ -1,1 +1,43 @@
-.idea
+# ===============================
+# IntelliJ / IDE files
+# ===============================
+.idea/
+*.iml
+/workspace.xml
+/shelf/
+
+# ===============================
+# Build / Output directories
+# ===============================
+out/
+
+# ===============================
+# HTTP Client (IntelliJ)
+# ===============================
+/httpRequests/
+
+# ===============================
+# Datasource files
+# ===============================
+/dataSources/
+/dataSources.local.xml
+
+# ===============================
+# Generated / Temporary files
+# ===============================
+output.txt/
+README.md/
+
+# ===============================
+# Core Java practice files
+# ===============================
+/buffered_copy.dat
+/unbuffered_copy.dat
+/employee.csv
+/employees.ser
+/ipl.csv
+/ipl.json
+/ipl_censored.csv
+/ipl_censored.json
+/students.csv
+/user_details.txt
